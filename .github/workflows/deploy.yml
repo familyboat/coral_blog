@@ -28,4 +28,3 @@ jobs:
         with:
           project: coral-blog
           entrypoint: serve.ts
-          root: "_site"

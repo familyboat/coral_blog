@@ -11,5 +11,13 @@
     "types": [
       "lume/types.ts"
     ]
+  },
+  "deploy": {
+    "project": "coral-blog",
+    "exclude": [
+      "**/node_modules"
+    ],
+    "include": [],
+    "entrypoint": "serve.ts"
   }
 }
