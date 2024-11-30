@@ -27,5 +27,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: coral-blog
-          import-map: "./deno.json"
           entrypoint: serve.ts
+          root: "_site"
