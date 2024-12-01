@@ -49,7 +49,7 @@ hosts 文件的位置在不同的操作系统有所不同。在 Windows 中位�
 
 下列的示例首先获取 github.com 真实的 IP 地址，然后向 hosts 文件中添加相应的条目，提升访问 GitHub 服务的用户体验。
 
-1. 访问 https://domain-name-to-ip.deno.dev/domain_name/github.com 获取 github.com 真实的 IP；
+1. 访问 https://domain-name-to-ip.deno.dev/domain_name/github.com 获取 github.com 真实的 IP 地址；
 2. 打开 hosts 文件，添加 20.205.243.166 github.com（IP 地址以你看到的为准）;
 3. 在命令行中输入 `git clone <your repository>`。
 
