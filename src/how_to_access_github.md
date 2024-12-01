@@ -1,3 +1,7 @@
+---
+title: 如何访问 Github
+---
+
 # 如何访问 GitHub
 
 作为一名开发人员，需要经常访问 [GitHub](https://github.com) 提供的服务。在中国，直接访问 GitHub 提供的服务一般是不可能的。
