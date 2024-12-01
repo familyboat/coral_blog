@@ -32,5 +32,3 @@ jobs:
           project: "coral-blog"
           entrypoint: "serve.ts"
           root: ""
-          
-          
