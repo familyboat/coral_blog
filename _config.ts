@@ -7,10 +7,11 @@ const site = lume();
 site.use(blog({
   date: {
     locales: {
-      zhCN
-    }
-  }
+      zhCN,
+    },
+  },
 }));
 site.ignore("./posts/instructions.md");
+site.copy("/font-files");
 
 export default site;
