@@ -1,14 +1,16 @@
 ---
 title: 如何访问 Github
+date: 2024-12-01
+author: familyboat
 ---
-
-# 如何访问 GitHub
 
 作为一名开发人员，需要经常访问 [GitHub](https://github.com) 提供的服务。在中国，直接访问 GitHub 提供的服务一般是不可能的。
 
 偶然发现无法访问 GitHub 提供的服务是因为 [DNS 欺骗](https://en.wikipedia.org/wiki/DNS_spoofing)。
 
 接下来探讨相应的解决方法。
+
+<!--more-->
 
 ## 访问网站
 
