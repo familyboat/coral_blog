@@ -1,0 +1,23 @@
+nav:
+  toc: 目录
+  next_post: 下一篇 →
+  previous_post: ← 上一篇
+  continue_reading: 继续阅读 →
+  archive_title: 档案馆
+  archive: 在<a href="/archive/">档案馆</a>发现更多文章。
+  back: ← 返回
+  page: 页面
+  next: 下一个 →
+  previous: ← 上一个
+post:
+  by: 由
+  reading_time: 分钟阅读
+search:
+  by_author: Posts by 
+  by_tag: Tagged 
+  tags: Tags
+comments:
+  title: Comments
+  description: |
+    You can leave a comment by replying to <a href=":src:">this Mastodon post</a> from your own account on Mastodon or any other ActivityPub-capable social network that can exchange replies with Mastodon.
+  empty: No comments yet
