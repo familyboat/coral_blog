@@ -15,7 +15,7 @@ site.use(blog({
   },
 }));
 
-site.use(lightningCss())
+site.use(lightningCss());
 
 site.copy("/font-files");
 
