@@ -58,3 +58,7 @@ hosts 文件的位置在不同的操作系统有所不同。在 Windows 中位�
 ## 总结
 
 在访问某个网站提供的服务时，如果发现无法正常访问，可以排查一下是否是因为 DNS 欺骗，如果是，可以尝试本文中介绍的解决方法。
+
+## 许可
+
+This work © 2024-12-1 by familyboat is licensed under Creative Commons Attribution 4.0 International 
