@@ -47,6 +47,9 @@ hosts 文件的位置在不同的操作系统有所不同。在 Windows 中位�
 
 打开 hosts 文件，将 IP 地址——域名条目添加到文件中。
 
+> [!note]
+> 修改 hosts 文件需要管理员或 root 权限。
+
 ## 示例
 
 下列的示例首先获取 github.com 真实的 IP 地址，然后向 hosts 文件中添加相应的条目，提升访问 GitHub 服务的用户体验。
