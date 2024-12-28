@@ -28,7 +28,7 @@ tags:
 
 - He _had_ uncombed hair, dirty clothes, and only 35 cents in his pocket.
   <br />
-  他头发凌乱，衣衫肮脏，口袋里仅有35美分。
+  他头发凌乱，衣衫肮脏，口袋里仅有 35 美分。
 
 <!-- more -->
 

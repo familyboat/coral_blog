@@ -24,7 +24,7 @@ tags:
 
 - The airport authorities decided to lengthen the walk from the aircraft, so that instead of a one-minute fast walk, the passengers spent six minutes walking.
   <br />
-  机场当局决定延长乘客下飞机后的步行距离，这样，走到行李提取处需要6分钟，而不再是快速行走1分钟就能到达。
+  机场当局决定延长乘客下飞机后的步行距离，这样，走到行李提取处需要 6 分钟，而不再是快速行走 1 分钟就能到达。
 
 - We must also believe that everything is being done to minimize our delay.
   <br />
@@ -32,7 +32,7 @@ tags:
 
 - In the Middle East and North Africa, U.S. tobacco exports increased by more than 27 percent in 1974.
   <br />
-  在中东和北非，美国烟草的出口量在1974年增加了27%以上。
+  在中东和北非，美国烟草的出口量在 1974 年增加了 27% 以上。
 
 2. 其他词类具体化
 
@@ -42,7 +42,7 @@ tags:
 
 - Following a glowing and lengthy introduction by the headmaster, Sir Winston stood up &mdash; all five feet, five inches and 235 pounds of him!
   <br />
-  在校长热情洋溢的长片介绍以后，温斯顿爵士站了起来——身高总共5英尺5英寸，体重却有235磅！
+  在校长热情洋溢的长片介绍以后，温斯顿爵士站了起来——身高总共 5 英尺 5 英寸，体重却有 235 磅！
 
 ## 具体转换为抽象
 

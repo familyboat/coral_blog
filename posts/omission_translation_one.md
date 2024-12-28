@@ -40,7 +40,7 @@ tags:
 
 - _The_ sky was blue and _the_ sun was shining.
   <br />
-  天空是蓝色的，太阳正照耀着.
+  天空是蓝色的，太阳正照耀着。
 
 - _The_ war escalated, on _the_ ground, in _the_ air, and at sea.
   <br />

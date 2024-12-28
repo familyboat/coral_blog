@@ -20,9 +20,9 @@ tags:
 
 - My family came to American _in_ 1985.
   <br />
-  1985年我们全家来到美国。（省略表示时间的介词“in”）
+  1985 年我们全家来到美国。（省略表示时间的介词“in”）
   <br />
-  或译：我们全家<u>于</u>1985年来到美国。
+  或译：我们全家<u>于</u>1985 年来到美国。
 
 - Smoking is not allowed _in_ the storehouse.
   <br />
