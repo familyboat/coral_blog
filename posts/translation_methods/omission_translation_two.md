@@ -8,7 +8,7 @@ tags:
   - Methods
 ---
 
-本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（64-65 页）。
+本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（64-65 页）。以下内容仅用作教育、研究、个人用途，不可用于商业用途，侵权必究。
 
 省略是指原文中有些词在译文中不译出来，因为译文中虽无其词而已有其意，或者在译文中是不言而喻的。换言之，省略是删去一些可有可无的，或者有了反嫌累赘或违背译文语言习惯的词。但省略并不是把原文的某些思想内容删去。以下介绍的是省略介词和省略连词的翻译技巧：
 
@@ -58,4 +58,4 @@ tags:
 
 ## 许可
 
-This work © 2024-12-27 by familyboat is licensed under Creative Commons Attribution 4.0 International
+This work © 2024-12-27 by familyboat is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 

@@ -8,7 +8,7 @@ tags:
   - Methods
 ---
 
-本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（134-135 页）。
+本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（134-135 页）。以下内容仅用作教育、研究、个人用途，不可用于商业用途，侵权必究。
 
 英语中有些词语表示的是抽象的概念，在翻译时需要把抽象的词转换为具体的词汇，以使译文流畅、通顺。而在某些语境中，有些表示具体概念的词汇需要译成抽象词汇。这就是抽象与具体的互相转换。例如：
 
@@ -62,4 +62,4 @@ tags:
 
 ## 许可
 
-This work © 2024-12-28 by familyboat is licensed under Creative Commons Attribution 4.0 International
+This work © 2024-12-28 by familyboat is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 

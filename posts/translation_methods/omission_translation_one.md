@@ -8,7 +8,7 @@ tags:
   - Methods
 ---
 
-本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（32-33 页）。
+本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（32-33 页）。以下内容仅用作教育、研究、个人用途，不可用于商业用途，侵权必究。
 
 省略译法指在翻译中略去原文中需要而译文中不需要的单词和词组。英语和汉语在某些词类的使用上有较大差异，英语里代词和连接词用得较多，而汉语里则用得较少。英译汉时，为了使译文自然流畅，往往要避免在句子里出现代词和连接词。
 
@@ -56,4 +56,4 @@ tags:
 
 ## 许可
 
-This work © 2024-12-27 by familyboat is licensed under Creative Commons Attribution 4.0 International
+This work © 2024-12-27 by familyboat is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
