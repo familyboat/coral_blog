@@ -13,6 +13,8 @@ url: /affirmative_translation_and_negative_translation/
 
 英语与汉语都可以从正面或者反面来表达同一概念
 
+<!-- more -->
+
 ## 动词
 
 ## 形容词
