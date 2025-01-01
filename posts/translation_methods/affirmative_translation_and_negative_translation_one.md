@@ -19,11 +19,7 @@ url: /affirmative_translation_and_negative_translation/
 
 ## 动词
 
-miss（错过）deny（否认，剥夺）fail（不及格，未成功）lack（缺乏）
-<br />
-ignore（不顾，不理）neglect（忽视）overlook（不注意）exclude（排除）
-<br />
-refrain from（克制）refuse（拒绝）lose（丧失）
+miss（错过）deny（否认，剥夺）fail（不及格，未成功）lack（缺乏）ignore（不顾，不理）neglect（忽视）overlook（不注意）exclude（排除）refrain from（克制）refuse（拒绝）lose（丧失）
 
 - Two inspections _missed_ the fault in the engine that led to the crash.
 <br />
@@ -35,9 +31,7 @@ refrain from（克制）refuse（拒绝）lose（丧失）
 
 ## 形容词
 
-ignorant（无知的）regardless of（不顾）free from（免于）far from（远远不）
-<br />
-short of（不足）absent（缺席）out of（没有）bad（不适当的）
+ignorant（无知的）regardless of（不顾）free from（免于）far from（远远不）short of（不足）absent（缺席）out of（没有）bad（不适当的）
 
 - Our drinks are _free from_ all artificial colorings and flavorings.
 <br />
@@ -65,9 +59,7 @@ beyond（超出）but for（若不是）except（除了）
 
 ## 连词
 
-before（决不，还未来得及）unless（如果不）until（不到……时候）
-<br />
-rather… than…（宁可……也不愿）
+before（决不，还未来得及）unless（如果不）until（不到……时候）rather… than…（宁可……也不愿）
 
 - _Unless_ the weather improves, we will have to cancel the game.
 <br />
