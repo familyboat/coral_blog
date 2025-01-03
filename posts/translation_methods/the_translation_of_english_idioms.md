@@ -22,7 +22,7 @@ tags:
 | --------------------------------- | ---------------------- |
 | Where there's smoke there's fire. | 无风不起浪             |
 | Look before you leap.             | 三思而后行             |
-| Strike while the iron hot.        | 趁热打铁               |
+| Strike while the iron is hot.     | 趁热打铁               |
 | More haste, less speed.           | 欲速则不达             |
 | Practice makes perfect.           | 熟能生巧               |
 | Well begun is half done           | 良好的开端是成功的一半 |
@@ -54,7 +54,7 @@ tags:
 | Stick together through thick and thin. | 有福同享，有难同当               |
 | Beauty is only skin deep.              | 绣花枕头（或译：美貌是肤浅的。） |
 | Every dog has its day.                 | 人人都有出头之日                 |
-| to handle without gloves               | 严厉以待                         |
+| to handle without gloves               | 严厉对待                         |
 | a black sheep                          | 害群之马                         |
 | sheep without a sheherd                | 乌合之众                         |
 | Love me, love my dog.                  | 爱屋及乌                         |
