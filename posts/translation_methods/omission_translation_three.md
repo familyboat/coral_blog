@@ -6,7 +6,7 @@ tags:
   - English to Chinese
   - Translation
   - Methods
-url: /omission_translation_three/
+
 ---
 
 本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（104-104 页）。以下内容仅用作教育、研究、个人用途，不可用于商业用途，侵权必究。
