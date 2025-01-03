@@ -4,6 +4,7 @@ author: familyboat
 date: 2025-01-03
 tags:
   - English to Chinese
+  - Chinese to English
   - Translation
   - Methods
 ---
