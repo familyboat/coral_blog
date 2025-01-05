@@ -18,7 +18,8 @@ tags:
 
 1. 修饰语位置差异
 
-英语的修饰语，如定语等，既可置于被修饰成分之前，又可置于其后。但修饰语若为短语或分句，如定语从句等，则一般置于被修饰成分之后，成为后置。而汉语的修饰语，无论是词、短语或是句子，一般都放在所修饰的词之前，成为前置。<br />
+英语的修饰语，如定语等，既可置于被修饰成分之前，又可置于其后。但修饰语若为短语或分句，如定语从句等，则一般置于被修饰成分之后，成为后置。而汉语的修饰语，无论是词、短语或是句子，一般都放在所修饰的词之前，成为前置。
+<br />
 例如：
 
 - The son whom he had turned out had gone to distant land, and his daughter was dead; so that there was no one left to help the old people.
