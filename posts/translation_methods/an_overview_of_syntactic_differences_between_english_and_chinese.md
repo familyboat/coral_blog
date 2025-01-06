@@ -8,7 +8,7 @@ tags:
   - Methods
 ---
 
-本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（293-296 页）。以下内容仅用作教育、研究、个人用途，不可用于商业用途，侵权必究。
+本文中所论述的翻译方法来自于由外语教学与研究出版社出版的《新编大学英语》第二版第二卷中记载的内容（293&ndash;296 页）。以下内容仅用作教育、研究、个人用途，不可用于商业用途，侵权必究。
 
 英汉句子的基本结构都是“主语 + 谓语 + 宾语”，但是在形式结构上有较多的差异。这种差异主要表现在句序和句子结构等方面。
 
@@ -40,9 +40,9 @@ tags:
   <br />
   因为老夫妇曾经是主人，知道怎么干活，所以穆罕穆德有他们服侍自己，感到称心如意。
 
-- Lencho showed not the slightest surprise on seeing the bills—such was his confidence—but he became angry when he counted the money…
+- Lencho showed not the slightest surprise on seeing the bills&mdash;such was his confidence&mdash;but he became angry when he counted the money…
   <br />
-  蓝休看到钱一点都不感到惊讶——他就是如此有信心——可是当他数钱的时候却生气了……
+  蓝休看到钱一点都不感到惊讶&mdash;他就是如此有信心&mdash;可是当他数钱的时候却生气了……
 
 ## 句子的表达
 
@@ -54,7 +54,7 @@ tags:
 <br />
 例如：
 
-- There she sat—her hands folded in front of her, and a smile upon her face, as she gazed at her old husband and he smiled back at her in return.
+- There she sat&mdash;her hands folded in front of her, and a smile upon her face, as she gazed at her old husband and he smiled back at her in return.
   <br />
   她坐在那儿，双手交叉抱在胸前，面带微笑，凝视着年迈的丈夫，丈夫也以微笑回报。
 
@@ -78,7 +78,7 @@ tags:
   <br />
   乌法省<u>住着</u>一位名叫伊莱亚斯的人。
 
-- I lived with my husband for fifty years—_seeking_ happiness, and never finding it;…
+- I lived with my husband for fifty years&mdash;_seeking_ happiness, and never finding it;…
   <br />
   我和我丈夫共同生活了 50 年，一直在<u>寻求着</u>幸福却未能找到；……
 
