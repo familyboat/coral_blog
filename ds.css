@@ -1027,3 +1027,14 @@ pre[class*="language-"] {
 .footnotes dd > :last-child {
   margin-bottom: 0;
 }
+
+.fixed-first-column tbody > tr > td:first-of-type {
+  display: flow-root;
+  width: max-content;
+}
+
+@media (max-width: 600px) {
+  .xs-unset-width-first-column tbody > tr > td:first-of-type {
+    width: unset;
+  }
+}
