@@ -1038,3 +1038,13 @@ pre[class*="language-"] {
     width: unset;
   }
 }
+
+u {
+  text-decoration-color: #800080;
+  text-underline-position: under;
+  text-decoration-style: dashed;
+}
+
+em {
+  color: #800080;
+}
