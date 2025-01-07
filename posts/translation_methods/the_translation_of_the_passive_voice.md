@@ -19,7 +19,7 @@ tags:
 
 - 译成被动句
 
-  英语被动句是由“助动词 be+ 过去分词”构成，在译成汉语时，除了用“被”表示外，还可以运用其他词语，如“受”、“遭”、“让”、“给”、“由”、“把”、“为……所”、“加以”、“予以”等。例如：
+  英语被动句是由“助动词 be + 过去分词”构成，在译成汉语时，除了用“被”表示外，还可以运用其他词语，如“受”、“遭”、“让”、“给”、“由”、“把”、“为……所”、“加以”、“予以”等。例如：
 
   - The optimists believe defeat is not their fault: circumstances, bad luck, or other people brought it about. Such people _are_ not _bothered_ by defeat.
     <br />
@@ -154,6 +154,7 @@ tags:
     They _felt loved and trusted_, and this feeling encouraged them to be self-confident.
 
   - 我发现昨天英语考试中我作弊的事当天晚上就<u>让</u>我父母<u>知道</u>了。
+    <br />
     I found that my cheating in yesterday's English test _was reported_ to my parents that very evening.
 
 - 含有被动意义的汉语句子应该译成英语的被动句
