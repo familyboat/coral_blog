@@ -1,5 +1,5 @@
 ---
-title: 英译汉省略译法（1）&mdash;省略代词和冠词
+title: 英译汉省略译法（1）&#x2e3a;省略代词和冠词
 date: 2024-12-27
 author: familyboat
 tags:

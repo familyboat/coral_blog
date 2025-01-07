@@ -40,9 +40,9 @@ tags:
   <br />
   海伦拨弄着钥匙，朝各个方向拧了一阵之后，门忽然开了。
 
-- Following a glowing and lengthy introduction by the headmaster, Sir Winston stood up &mdash; all five feet, five inches and 235 pounds of him!
+- Following a glowing and lengthy introduction by the headmaster, Sir Winston stood up&mdash;all five feet, five inches and 235 pounds of him!
   <br />
-  在校长热情洋溢的长片介绍以后，温斯顿爵士站了起来&mdash;身高总共 5 英尺 5 英寸，体重却有 235 磅！
+  在校长热情洋溢的长片介绍以后，温斯顿爵士站了起来&#x2e3a;身高总共 5 英尺 5 英寸，体重却有 235 磅！
 
 ## 具体转换为抽象
 

@@ -1,5 +1,5 @@
 ---
-title: 英译汉省略译法（3）&mdash;其他词类的省略
+title: 英译汉省略译法（3）&#x2e3a;其他词类的省略
 date: 2024-12-28
 author: familyboat
 tags:

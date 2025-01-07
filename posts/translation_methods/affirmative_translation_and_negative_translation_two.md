@@ -1,5 +1,5 @@
 ---
-title: 正译与反译（2）&mdash;反说正译
+title: 正译与反译（2）&#x2e3a;反说正译
 author: familyboat
 date: 2025-01-03
 tags:

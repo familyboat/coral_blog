@@ -1,5 +1,5 @@
 ---
-title: 英译汉省略译法（2）&mdash;省略介词和连词
+title: 英译汉省略译法（2）&#x2e3a;省略介词和连词
 date: 2024-12-27
 author: familyboat
 tags:
