@@ -22,30 +22,30 @@ tags:
 
 ## 标点符号表格
 
-| 简体中文标点符号（中国） | Unicode | 英文名称 | 中文名称 |
-| :--- | :--- | :--- | :--- |
-| ， | U+FF0C FULLWIDTH COMMA | comma | 逗号 |
-| ！ | U+FF01 FULLWIDTH EXCLAMATION MARK | exclamation mark | 感叹号 |
-| ？ | U+FF1F FULLWIDTH QUESTION MARK | question mark | 问号 |
-| ； | U+FF1B FULLWIDTH SEMICOLON | semicolon | 分号 |
-| ： | U+FF1A FULLWIDTH COLON | colon | 冒号 |
-| （ | U+FF08 FULLWIDTH LEFT PARENTHESIS | parentheses | 圆括号 |
-| ） | U+FF09 FULLWIDTH RIGHT PARENTHESIS | square bracket | 方括号 |
-| ［ | U+FF3B FULLWIDTH LEFT SQUARE BRACKET | square bracket | 方括号 |
-| ］ | U+FF3D FULLWIDTH RIGHT SQUARE BRACKET | square bracket | 方括号 |
-| 【 | U+3010 LEFT BLACK LENTICULAR BRACKET | square bracket | 方括号 |
-| 】 | U+3011 RIGHT BLACK LENTICULAR BRACKET | square bracket | 方括号 |
-| 。 | U+3002 IDEOGRAPHIC FULL STOP | period | 句号 |
-| “”‘’ | 与英文的单引号和双引号使用的是相同的 codepoint，需要在中文字体下才能正确的显示 | quotation mark | 引号 |
-| 、 | U+3001 IDEOGRAPHIC COMMA | enumeration comma | 顿号 |
-| · | N/A | middle dot | 间隔号 |
-| 《 | U+300A LEFT DOUBLE ANGLE BRACKET | title mark | 书名号 |
-| 》 | U+300B RIGHT DOUBLE ANGLE BRACKET | title mark | 书名号 |
-| 〈 | U+3008 LEFT ANGLE BRACKET | title mark | 书名号 |
-| 〉 | U+3009 RIGHT ANGLE BRACKET | title mark | 书名号 |
-| …… | U+2026 … HORIZONTAL ELLIPSIS | ellipsis | 省略号 |
-| ⋯⋯ | U+22EF ⋯ MIDLINE HORIZONTAL ELLIPSIS | ellipsis | 省略号 |
-| ⸺ | U+2E3A TWO-EM DASH | two-em dash | 破折号 |
+| 简体中文标点符号（中国） | Unicode                                                                        | 英文名称          | 中文名称 |
+| :----------------------- | :----------------------------------------------------------------------------- | :---------------- | :------- |
+| ，                       | U+FF0C FULLWIDTH COMMA                                                         | comma             | 逗号     |
+| ！                       | U+FF01 FULLWIDTH EXCLAMATION MARK                                              | exclamation mark  | 感叹号   |
+| ？                       | U+FF1F FULLWIDTH QUESTION MARK                                                 | question mark     | 问号     |
+| ；                       | U+FF1B FULLWIDTH SEMICOLON                                                     | semicolon         | 分号     |
+| ：                       | U+FF1A FULLWIDTH COLON                                                         | colon             | 冒号     |
+| （                       | U+FF08 FULLWIDTH LEFT PARENTHESIS                                              | parentheses       | 圆括号   |
+| ）                       | U+FF09 FULLWIDTH RIGHT PARENTHESIS                                             | square bracket    | 方括号   |
+| ［                       | U+FF3B FULLWIDTH LEFT SQUARE BRACKET                                           | square bracket    | 方括号   |
+| ］                       | U+FF3D FULLWIDTH RIGHT SQUARE BRACKET                                          | square bracket    | 方括号   |
+| 【                       | U+3010 LEFT BLACK LENTICULAR BRACKET                                           | square bracket    | 方括号   |
+| 】                       | U+3011 RIGHT BLACK LENTICULAR BRACKET                                          | square bracket    | 方括号   |
+| 。                       | U+3002 IDEOGRAPHIC FULL STOP                                                   | period            | 句号     |
+| “”‘’                     | 与英文的单引号和双引号使用的是相同的 codepoint，需要在中文字体下才能正确的显示 | quotation mark    | 引号     |
+| 、                       | U+3001 IDEOGRAPHIC COMMA                                                       | enumeration comma | 顿号     |
+| ·                        | N/A                                                                            | middle dot        | 间隔号   |
+| 《                       | U+300A LEFT DOUBLE ANGLE BRACKET                                               | title mark        | 书名号   |
+| 》                       | U+300B RIGHT DOUBLE ANGLE BRACKET                                              | title mark        | 书名号   |
+| 〈                       | U+3008 LEFT ANGLE BRACKET                                                      | title mark        | 书名号   |
+| 〉                       | U+3009 RIGHT ANGLE BRACKET                                                     | title mark        | 书名号   |
+| ……                       | U+2026 … HORIZONTAL ELLIPSIS                                                   | ellipsis          | 省略号   |
+| ⋯⋯                       | U+22EF ⋯ MIDLINE HORIZONTAL ELLIPSIS                                           | ellipsis          | 省略号   |
+| ⸺                        | U+2E3A TWO-EM DASH                                                             | two-em dash       | 破折号   |
 
 ## 许可
 
