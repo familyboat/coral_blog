@@ -62,7 +62,7 @@ tags:
   <br />
   女王将于 5 月访问该城。<u>届时，她将主持那家新医院的开业仪式</u>。
 
-- …and I suppose that one of the most celebrated French speakers of English was that actor, Maurice Chevalier, _who made a career out of sounding French and who could probably have spoken it with much less of an accent if he had really wanted to_.
+- … and I suppose that one of the most celebrated French speakers of English was that actor, Maurice Chevalier, _who made a career out of sounding French and who could probably have spoken it with much less of an accent if he had really wanted to_.
   <br />
   ……我想最著名的说英语的法国人之一是那个叫莫里斯·谢瓦利埃的演员。<u>他靠一口夸张的法语口音成就了一番事业。其实若他愿意，他或许可以不带那么重的口音</u>。
 
