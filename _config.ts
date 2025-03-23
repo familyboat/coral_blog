@@ -6,6 +6,10 @@ import { zhCN } from "date-fns/locale";
 const site = lume();
 
 site.ignore("./posts/instructions.md");
+// 为了避免版权纠纷，移除下列内容
+site.ignore((path) => {
+  return path.includes("posts/translation_methods")
+})
 
 site.use(blog({
   date: {
